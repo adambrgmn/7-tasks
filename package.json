@@ -9,16 +9,21 @@
     "eject": "react-scripts eject"
   },
   "dependencies": {
+    "@reach/router": "^1.2.1",
     "@types/jest": "24.0.18",
     "@types/node": "12.7.5",
     "@types/react": "16.9.2",
     "@types/react-dom": "16.9.0",
+    "polished": "^3.4.1",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-scripts": "3.1.2",
+    "styled-components": "^4.3.2",
     "typescript": "3.6.3"
   },
   "devDependencies": {
+    "@types/reach__router": "^1.2.5",
+    "@types/styled-components": "^4.1.19",
     "cz-conventional-changelog": "^3.0.2",
     "husky": "^3.0.5",
     "lint-staged": "^9.3.0",
